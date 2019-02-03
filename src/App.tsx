@@ -2,7 +2,8 @@ import * as React from 'react';
 import './App.css';
 import { Web } from '@pnp/sp';
 
-const web = new Web("https://rajo365dev.sharepoint.com/sites/dev/Courses");
+const web = new Web("https://yourtenant.sharepoint.com/sites/dev/");
+// Enter your Tenant URL here, it may be different than as shown above.
 
 class App extends React.Component<any, any> {
   constructor(props: any) {
