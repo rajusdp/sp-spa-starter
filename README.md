@@ -6,7 +6,7 @@ using ReactJS and pnpjs library.
 
 After cloning or downloading the respository,Follow the steps mentioned below.
 
-Upload the file **index.aspx** to sharepoint site under Site Pages library. This file is available under the root folder of this project.
+Upload the file **index.aspx** to sharepoint site under Site Pages library or to Site Assets Library. This file is available under the root folder of this project.
 
 Delete the **index.aspx** file from the root folder.
 
